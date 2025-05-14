@@ -1,0 +1,4 @@
+# 64367-ex400-v2023.2.x
+# genexis-pulse-ex400
+# 00:22:07:af:08:35
+key "7df7fc5e585f0ea71bf76991b418a9145b08d980c4d3744cc35ab6ba3bc7cf56";
